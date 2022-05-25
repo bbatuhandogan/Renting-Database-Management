@@ -1,5 +1,5 @@
 # Renting-Database-Management
-##Used Technologies
+###Used Technologies
 C# & MSSQL Server
 ![image](https://user-images.githubusercontent.com/103190209/170214283-051b775c-a4e3-4e0d-8f4a-8d7b9856b3f3.png)  
 ![image](https://user-images.githubusercontent.com/103190209/170214388-cd862310-76ae-402a-a7c5-4317fed29eec.png)
